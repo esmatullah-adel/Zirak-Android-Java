@@ -1,5 +1,7 @@
 Project Name: Zirak Mobile App
+
 Platform: Flutter (Cross-Platform Mobile Development Framework)
+
 Purpose:
 The Zirak Mobile App is specifically designed for Currency Exchange & Money Service Provider Companies to facilitate and streamline their daily operations. By integrating real-time currency exchange rates and offering financial services, the app simplifies tasks like transaction management, customer support, financial reporting, and regulatory compliance. It is an essential tool for businesses in the financial services sector looking to improve efficiency and enhance customer experience.
 
