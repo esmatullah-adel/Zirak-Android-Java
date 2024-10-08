@@ -1,9 +1,9 @@
-**Project Name:** Zirak Web App
+**Project Name:** Zirak Android App
 
-**Platform:** Laravel (Web Applications Development Framework)
+**Platform:** Java, Native Android Application Development, Using Android Studio
 
 **Purpose:**
-The Zirak Web App is specifically designed for Currency Exchange & Money Service Provider Companies to facilitate and streamline their daily operations. By integrating real-time currency exchange rates and offering financial services, the app simplifies tasks like transaction management, customer support, financial reporting, and regulatory compliance. It is an essential tool for businesses in the financial services sector looking to improve efficiency and enhance customer experience.
+The Zirak Android App is specifically designed for Currency Exchange & Money Service Provider Companies to facilitate and streamline their daily operations. By integrating real-time currency exchange rates and offering financial services, the app simplifies tasks like transaction management, customer support, financial reporting, and regulatory compliance. It is an essential tool for businesses in the financial services sector looking to improve efficiency and enhance customer experience.
 
 **Key Features:**
 
