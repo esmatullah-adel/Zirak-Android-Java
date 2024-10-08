@@ -1,4 +1,4 @@
-**Project Name:** Zirak Mobile App
+**Project Name:** Zirak Web App
 
 **Platform:** Flutter (Cross-Platform Mobile Development Framework)
 
